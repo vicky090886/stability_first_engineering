@@ -14,7 +14,6 @@ Reusable prompts for:
 
 | Prompt | Purpose |
 |---|---|
-| concise_mode.md | Concise analytical responses |
 | stability_first_engineering.md | Prevent overengineering and unstable code changes |
 
 ---
